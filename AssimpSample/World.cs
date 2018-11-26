@@ -218,8 +218,29 @@ namespace AssimpSample
             gl.PopMatrix();
 
             // placing text by redefining viewport
-            gl.Viewport((int)(m_width / 1.1), 0, m_width / 2, m_height/2);
-            
+            if (m_width < 400)
+            {
+                gl.Viewport(0, 0, m_width / 2, m_height / 2);
+             }
+            else if (m_width >= 400 && m_width < 700) 
+            {
+                gl.Viewport((int)(m_width / 1.4), 0, m_width / 2, m_height / 2);
+
+            }
+            else if (m_width >= 700 && m_width < 1000)
+            {
+                gl.Viewport((int)(m_width / 1.26), 0, m_width / 2, m_height / 2);
+
+            }
+            else if (m_width >= 1000 && m_width < 1400) 
+            {
+                gl.Viewport((int)(m_width / 1.16), 0, m_width / 2, m_height / 2);
+
+            } else
+            {
+                gl.Viewport((int)(m_width / 1.11), 0, m_width / 2, m_height/2);
+            }
+
             // right bottom corner text
             gl.PushMatrix();
             {

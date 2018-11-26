@@ -22,3 +22,4 @@ C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\obj\x86\Rel
 C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\obj\x86\Release\PF1S6.2.csproj.CoreCompileInputs.cache
 C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\obj\x86\Release\AssimpSample.exe
 C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\obj\x86\Release\AssimpSample.pdb
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\obj\x86\Release\PF1S6.2.csprojResolveAssemblyReference.cache
