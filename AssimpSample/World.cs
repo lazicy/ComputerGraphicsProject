@@ -26,15 +26,7 @@ namespace AssimpSample
     {
         #region Atributi
 
-        /// <summary>
-        ///	 Ugao rotacije Meseca
-        /// </summary>
-        private float m_moonRotation = 0.0f;
-
-        /// <summary>
-        ///	 Ugao rotacije Zemlje
-        /// </summary>
-        private float m_earthRotation = 0.0f;
+       
 
         /// <summary>
         ///	 Scena koja se prikazuje.
@@ -65,6 +57,7 @@ namespace AssimpSample
         ///	 Visina OpenGL kontrole u pikselima.
         /// </summary>
         private int m_height;
+        
 
         #endregion Atributi
 
@@ -224,18 +217,20 @@ namespace AssimpSample
             }
             gl.PopMatrix();
 
+            // placing text by redefining viewport
+            gl.Viewport((int)(m_width / 1.1), 0, m_width / 2, m_height/2);
+            
             // right bottom corner text
             gl.PushMatrix();
             {
-                // placing text by redefining viewport
-                gl.Viewport((int)(m_width / 1.1), 0, m_width / 2, m_height / 2);
                 DrawTextRightBottomCorner(gl);
             }
             gl.PopMatrix();
 
+            
             // reset the viewport
             gl.Viewport(0, 0, m_width, m_height);
-
+           
             gl.Flush();
         }
 
@@ -360,16 +355,20 @@ namespace AssimpSample
 
         private void DrawTextRightBottomCorner(OpenGL gl)
         {
-
-            gl.Viewport((int) (m_width / 1.1), 0, m_width / 2, m_height / 2);
             gl.DrawText(5, 125, 1.0f, 1.0f, 0.0f, "Tahoma Italic", 10, "Predmet: Racunarska grafika");
+            gl.DrawText(5, 125, 1.0f, 1.0f, 0.0f, "Tahoma Italic", 10, "_______________________");
             gl.DrawText(5, 100, 1.0f, 1.0f, 0.0f, "Tahoma Italic", 10, "Sk.god: 2018/19.");
-            gl.DrawText(5, 75, 1.0f, 1.0f, 0.0f, "Tahoma Underline", 10, "Ime: Milan");
-            gl.DrawText(5, 50, 1.0f, 1.0f, 0.0f, "Tahoma Underline", 10, "Prezime: Lazic");
+            gl.DrawText(5, 100, 1.0f, 1.0f, 0.0f, "Tahoma Italic", 10, "______________");
+            gl.DrawText(5, 75, 1.0f, 1.0f, 0.0f, "Tahoma Italic", 10, "Ime: Milan");
+            gl.DrawText(5, 75, 1.0f, 1.0f, 0.0f, "Tahoma Italic", 10, "________");
+            gl.DrawText(5, 50, 1.0f, 1.0f, 0.0f, "Tahoma Italic", 10, "Prezime: Lazic");
+            gl.DrawText(5, 50, 1.0f, 1.0f, 0.0f, "Tahoma Italic", 10, "___________");
             gl.DrawText(5, 25, 1.0f, 1.0f, 0.0f, "Tahoma Italic", 10, "Sifra zad: 6.2");
+            gl.DrawText(5, 25, 1.0f, 1.0f, 0.0f, "Tahoma Italic", 10, "___________");
 
         }
 
+      
         #endregion Metode
 
         #region IDisposable metode
