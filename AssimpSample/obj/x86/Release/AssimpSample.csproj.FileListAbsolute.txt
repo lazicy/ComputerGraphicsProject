@@ -1,0 +1,22 @@
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Release\AssimpLib\Assimp32.dll
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Release\AssimpLib\Assimp64.dll
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Release\AssimpLib\AssimpNet.dll
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Release\3D Models\Touareg\Touareg.3DS
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Release\AssimpSample.exe.config
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Release\AssimpSample.exe
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Release\AssimpSample.pdb
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Release\AssimpNet.dll
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Release\SharpGL.dll
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Release\SharpGL.SceneGraph.dll
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Release\SharpGL.WPF.dll
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Release\MainWindow.baml
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Release\MainWindow.g.cs
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Release\App.g.cs
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample_Content.g.cs
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample_MarkupCompile.cache
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.g.resources
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.Properties.Resources.resources
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.csproj.GenerateResource.Cache
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.csproj.CoreCompileInputs.cache
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.exe
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.pdb

@@ -1,0 +1,50 @@
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\bin\Debug\3D Models\Computer\Laptop.3DS
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\bin\Debug\3D Models\Duck\duck.dae
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\bin\Debug\AssimpSample.exe.config
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\bin\Debug\AssimpSample.exe
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\bin\Debug\AssimpSample.pdb
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\bin\Debug\AssimpNet.dll
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\bin\Debug\SharpGL.dll
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\bin\Debug\SharpGL.WPF.dll
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\PF1S6.2.csprojResolveAssemblyReference.cache
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\MainWindow.baml
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\App.g.cs
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\PF1S6.2.csproj.GenerateResource.Cache
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\PF1S6.2.csproj.CoreCompileInputs.cache
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\AssimpSample.exe
+D:\Fax\4\Grafika\RG-E2 Vezbe 4\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\bin\Debug\3D Models\Computer\Laptop.3DS
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\bin\Debug\3D Models\Duck\duck.dae
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\PF1S6.2.csprojResolveAssemblyReference.cache
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\PF1S6.2.csproj.GenerateResource.Cache
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\PF1S6.2.csproj.CoreCompileInputs.cache
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\lazic\Documents\GitHub\ComputerGraphicsProject\AssimpSample\obj\x86\Debug\AssimpSample.pdb
