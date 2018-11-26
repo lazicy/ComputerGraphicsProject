@@ -153,7 +153,7 @@ namespace AssimpSample
             // Model sencenja na flat (konstantno)
             gl.ShadeModel(OpenGL.GL_FLAT);
             gl.Enable(OpenGL.GL_DEPTH_TEST);
-            //gl.Enable(OpenGL.GLU_CULLING);
+            gl.Enable(OpenGL.GL_CULL_FACE);
             m_scene.LoadScene();
             m_scene.Initialize();
         }
@@ -282,7 +282,7 @@ namespace AssimpSample
             
             gl.Scale(12.3f, 12.3f, 12.3f);
             gl.Translate(5.55f, -0.7f, 0.5f);
-            gl.Rotate(90f, 0f, 0f);
+            gl.Rotate(270f, 0f, 0f);
             gl.Enable(OpenGL.GL_COLOR_MATERIAL);
             gl.Color(0.34f, 0.6f, 0.91f);
             
@@ -355,9 +355,9 @@ namespace AssimpSample
             float[] carpetVertex =
             {                       
                 -330.0f, -150.0f,  170.0f,
-                -330.0f, -150.0f, -170.0f,
-                 330.0f, -150.0f, -170.0f,
                  330.0f, -150.0f,  170.0f,
+                 330.0f, -150.0f, -170.0f,
+                -330.0f, -150.0f, -170.0f,
             };
 
             gl.Color(0.6f, 0.1f, 0.3f);
