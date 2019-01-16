@@ -3,13 +3,41 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="SharpGL WPF Application" WindowState="Maximized" WindowStyle="SingleBorderWindow"
         xmlns:sharpGL="clr-namespace:SharpGL.WPF;assembly=SharpGL.WPF" KeyDown="Window_KeyDown">
-    <Grid>
-        
+    <DockPanel>
+
+        <ToolBarTray DockPanel.Dock="Top">
+            <ToolBar>
+                <Label>
+                    Computer size:
+                </Label>
+                
+                <TextBox Name="ComputerSizeTextBox" Text="{Binding ComputerSize, Mode=TwoWay}" KeyUp="ComputerSize_KeyUp" PreviewTextInput="NumberValidationTextBox"/>
+                <Label Foreground="Black" Margin="-4px 0px 20px 0px">%</Label>
+                    
+
+                <Label>
+                    Computer position X:
+                </Label>
+
+                <TextBox Margin="0px 0px 20px 0px" Name="ComputerPositionTextBox" Text="{Binding ComputerPositionX, Mode=TwoWay}" KeyUp="ComputerPosition_KeyUp" PreviewTextInput="NumberValidationTextBox"/>
+
+                <Label>
+                    Ambient color:
+                </Label>
+                <ComboBox Name="AmbientColors_combo" ItemsSource="{Binding Path=AmbientColors}" SelectionChanged="AmbientColors_combo_SelectionChanged">
+                    
+                </ComboBox>
+                 
+
+
+            </ToolBar>
+        </ToolBarTray>
+
         <!-- The OpenGL control provides a OpenGL drawing surface. -->
         <sharpGL:OpenGLControl 
             Name="openGLControl" OpenGLDraw="openGLControl_OpenGLDraw" 
             OpenGLInitialized="openGLControl_OpenGLInitialized" Resized="openGLControl_Resized"
             DrawFPS="True" RenderContextType="FBO" FrameRate="10"/>
         
-    </Grid>
+    </DockPanel>
 </Window>
